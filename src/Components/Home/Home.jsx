@@ -14,7 +14,10 @@ import 'aos/dist/aos.css'
 
 
 const Home = () => {
+
 //abhishek chalwadi's 
+=======
+//abhishek chalwadis mainnnnnnnnn
 
 useEffect(()=>{
     Aos.init({duration:2000})
