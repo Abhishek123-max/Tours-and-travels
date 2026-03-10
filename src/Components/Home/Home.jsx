@@ -16,7 +16,6 @@ import 'aos/dist/aos.css'
 const Home = () => {
 
 //abhishek chalwadi's 
-=======
 //abhishek chalwadis mainnnnnnnnn
 
 useEffect(()=>{
