@@ -31,7 +31,7 @@ useEffect(()=>{
         <div className="textDiv">
 
           <span data-aos="fade-up"  className="smallText">Our Packages</span>
-          <h1 data-aos="fade-up" className="homeTitle">Search Your Holidays today!!!</h1>
+          <h1 data-aos="fade-up" className="homeTitle">Search Your Holidays today!!!!!!!!!</h1>
         </div>
         <div data-aos="fade-up" className="cardDiv grid">
           <div className="destinationInput">
